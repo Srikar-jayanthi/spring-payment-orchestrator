@@ -4,6 +4,7 @@ This project simulates a payment gateway with a backend API, a merchant dashboar
 
 ## Project Structure
 
+```text
 payment-gateway/
 ├── backend/                # Node.js / Express API & Worker
 │   ├── src/
@@ -22,6 +23,8 @@ payment-gateway/
 │   └── init.sql
 ├── docker-compose.yml
 └── README.md
+```
+
 
 ## Service Details
 
